@@ -9,7 +9,7 @@
 💻 I'm also a **Technical IT** graduate from the Federal Institute of Rio Grande do Sul - Campus Restinga (IFRS).
 
 ## 📫 Connect with Me
-- [LinkedIn](https://br.linkedin.com/in/ashiley-bianca-18925718a)
+- [LinkedIn](https://br.linkedin.com/in/ashiley-bianca)
 - [Instagram](https://www.instagram.com/ashileybiancx/)
 - Email: ashbycontato@gmail.com
 
