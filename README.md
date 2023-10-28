@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm Ashiley Bianca
 
-<!--
-**ashileybianca/ashileybianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Computer Science** student at Pontifical Catholic University of Rio Grande do Sul (PUCRS), through the ADA - Women in Computing program, by Poatek;
+🔎 Undergraduate Researcher and Intern at the **MALTA Laboratory** (Machine Learning Theory and Applications Lab);
+🤖 CNPq research scholarship in the "**RoboLab Restinga**: fostering educational robotics" project;
+💻 I'm also a **Technical IT** graduate from the Federal Institute of Rio Grande do Sul - Campus Restinga (IFRS).
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
+- [LinkedIn](https://br.linkedin.com/in/ashiley-bianca-18925718a)
+- [Instagram](https://www.instagram.com/ashileybiancx/)
+- Email: ashbycontato@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
