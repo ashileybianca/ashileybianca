@@ -2,7 +2,9 @@
 
 👩‍💻 **Computer Science** student at Pontifical Catholic University of Rio Grande do Sul (PUCRS), through the ADA - Women in Computing program, by Poatek;
 
-🔎 Undergraduate Researcher and Intern at the **MALTA Laboratory** (Machine Learning Theory and Applications Lab);
+🌟 Intern at the **Software Innovation Laboratory (LIS)**, the project was inaugurated in 2011 through a partnership between PUCRS and HP;
+
+🔎 Volunteer scholarship holder at the **MALTA Laboratory** (Machine Learning Theory and Applications Lab);
 
 🤖 CNPq research scholarship in the "**RoboLab Restinga**: fostering educational robotics" project;
 
@@ -12,5 +14,4 @@
 - [LinkedIn](https://br.linkedin.com/in/ashiley-bianca)
 - [Instagram](https://www.instagram.com/ashileybiancx/)
 - Email: ashbycontato@gmail.com
-
 
