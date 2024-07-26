@@ -2,7 +2,7 @@
 
 👩‍💻 **Computer Science** student at Pontifical Catholic University of Rio Grande do Sul (PUCRS), through the ADA - Women in Computing program by Poatek;
 
-🌟 Intern at the **Software Innovation Laboratory (LIS)**, working on the Prompto project, which aims to develop a project management agent;
+🌟 Intern at the **Software Innovation Laboratory (LIS) (PUCRS / HP)**, working on the Prompto project, which aims to develop a project management agent;
 
 🔎 Currently, a Volunteer Scholarship Holder at the **MALTA Laboratory** (Machine Learning Theory and Applications Lab), developing work on skin lesion classification;
 
