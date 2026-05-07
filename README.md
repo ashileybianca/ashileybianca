@@ -2,7 +2,7 @@
 
 👩‍💻 **Computer Science student at the Pontifical Catholic University of Rio Grande do Sul (PUCRS)**, through the ADA – Women in Computing program by Poatek (now TELUS Digital BR);
 
-🌟 **Data Science Intern at HP**, working with data analysis, large language models (LLMs), prompt engineering, architecture planning, and chatbot development;
+🌟 **Machine Learning Engineer at HP**, working with data analysis, large language models (LLMs), prompt engineering, architecture planning, and chatbot development;
 
 🤖 **FAPERGS research scholarship holder in the RoboLab Restinga: Fostering Educational Robotics** project, leading courses and workshops for the local community;
 
